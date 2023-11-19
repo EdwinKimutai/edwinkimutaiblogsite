@@ -1,0 +1,18 @@
+{
+  "name": "myblogsites",
+  "version": "1.0.0",
+  "description": "A simple website that i post my written articles weekly",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "remote"
+  },
+  "keywords": [
+    "blogsite"
+  ],
+  "author": "Edwin Kimutai",
+  "license": "ISC"
+}
